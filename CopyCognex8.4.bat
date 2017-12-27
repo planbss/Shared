@@ -1,3 +1,2 @@
-del /Q Cognex
-mkdir Cognex
-copy Cognex8.4 Cognex
+mkdir ReferenceDll
+copy ThirdParty\ImagingLibrary\Cognex8.4\*.dll ReferenceDll
