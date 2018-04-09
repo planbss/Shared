@@ -1,4 +1,5 @@
 mkdir ReferenceDll
+mkdir DependenctDll
 
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
