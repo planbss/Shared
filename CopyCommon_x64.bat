@@ -8,6 +8,7 @@ copy ThirdParty\Data\XComProW_C40_01_64.dll ReferenceDll
 copy ThirdParty\Data\XComProW_M40_01_64.dll DependenctDll
 
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1.2976_x64\Emgu.CV.World.dll ReferenceDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.1.2976_x64\x64\*.dll DependenctDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 
