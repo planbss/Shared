@@ -4,6 +4,7 @@ mkdir DependenctDll
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
 copy ThirdParty\Data\log4net.dll ReferenceDll
+copy ThirdParty\Data\Newtonsoft.Json.dll ReferenceDll
 copy ThirdParty\Data\XComProW_C40_01_64.dll ReferenceDll
 copy ThirdParty\Data\XComProW_M40_01_64.dll DependenctDll
 
