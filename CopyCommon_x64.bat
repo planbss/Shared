@@ -8,13 +8,12 @@ copy ThirdParty\Data\Newtonsoft.Json.dll ReferenceDll
 copy ThirdParty\Data\XComProW_C40_01_64.dll ReferenceDll
 copy ThirdParty\Data\XComProW_M40_01_64.dll DependenctDll
 
-copy ThirdParty\ImagingLibrary\EmguCV2.4.9_x64\Emgu.*.dll ReferenceDll
-copy ThirdParty\ImagingLibrary\EmguCV2.4.9_x64\opencv_.*.dll DependenctDll
-copy ThirdParty\ImagingLibrary\EmguCV2.4.9_x64\cu*.dll DependenctDll
-copy ThirdParty\ImagingLibrary\EmguCV2.4.9_x64\opencv*.dll DependenctDll
-copy ThirdParty\ImagingLibrary\EmguCV2.4.9_x64\opencv*.zip DependenctDll
-copy ThirdParty\ImagingLibrary\EmguCV2.4.9_x64\npp*.dll DependenctDll
-copy ThirdParty\ImagingLibrary\EmguCV2.4.9_x64\OpenCL.dll DependenctDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\Emgu.*.dll ReferenceDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\opencv_ffmpeg341_64.dll DependenctDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\concrt140.dll DependenctDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\cvextern.dll DependenctDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\msvcp140.dll DependenctDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\vcruntime140.dll DependenctDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 
