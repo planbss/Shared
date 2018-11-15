@@ -7,6 +7,10 @@ copy ThirdParty\Data\log4net.dll ReferenceDll
 copy ThirdParty\Data\Newtonsoft.Json.dll ReferenceDll
 copy ThirdParty\Data\XComProW_C40_01_64.dll ReferenceDll
 copy ThirdParty\Data\XComProW_M40_01_64.dll DependenctDll
+copy ThirdParty\Data\zxing.dll DependenctDll
+copy ThirdParty\Data\zxing.interop.dll DependenctDll
+copy ThirdParty\Data\zxing.dll ReferenceDll
+copy ThirdParty\Data\zxing.interop.dll ReferenceDll
 
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\Emgu.*.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\opencv_ffmpeg341_64.dll DependenctDll
