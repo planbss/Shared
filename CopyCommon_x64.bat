@@ -48,5 +48,5 @@ copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
 copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
 
-copy ThirdParty\CNTK\Cntk.Core.Managed-2.5.dll ReferenceDll
+copy ThirdParty\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
 
