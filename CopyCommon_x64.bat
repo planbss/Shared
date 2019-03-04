@@ -47,6 +47,8 @@ copy ThirdParty\DeviceEtc\HASP\apidsp_windows_x64.dll DependenctDll
 copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
 copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
+copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
+
 
 copy ThirdParty\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
 
