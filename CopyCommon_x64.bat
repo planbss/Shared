@@ -52,3 +52,5 @@ copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 
 copy ThirdParty\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
 
+copy ThirdParty\MachineLearning\ICP\ICP.dll ReferenceDll
+copy ThirdParty\MachineLearning\ICP\icp.lib DependenctDll
