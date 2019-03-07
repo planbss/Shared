@@ -27,6 +27,7 @@ copy ThirdParty\Grabber\Pylon5\*.dll ReferenceDll
 copy ThirdParty\Motion_DAQ\AXL.dll DependenctDll
 copy ThirdParty\Motion_DAQ\ComiDll.dll DependenctDll
 copy ThirdParty\Motion_DAQ\EzBasicAxl.dll DependenctDll
+copy ThirdParty\Motion_DAQ\EziMOTIONPlusRx64.dll DependenctDll
 copy ThirdParty\Motion_DAQ\MEDAQLib.dll DependenctDll
 copy ThirdParty\Motion_DAQ\PCI-Dask64.dll DependenctDll
 copy ThirdParty\Motion_DAQ\PowerPmac64.dll DependenctDll
