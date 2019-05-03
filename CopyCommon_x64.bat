@@ -11,6 +11,7 @@ copy ThirdParty\Data\zxing.dll DependenctDll
 copy ThirdParty\Data\zxing.interop.dll DependenctDll
 copy ThirdParty\Data\zxing.dll ReferenceDll
 copy ThirdParty\Data\zxing.interop.dll ReferenceDll
+copy ThirdParty\Data\DataGatheringWrapper.dll ReferenceDll
 
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\Emgu.*.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\opencv_ffmpeg341_64.dll DependenctDll
