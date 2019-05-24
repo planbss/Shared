@@ -1,6 +1,8 @@
 mkdir ReferenceDll
 mkdir DependenctDll
 
+copy ThirdParty\Comm\M2Mqtt.Net.dll ReferenceDll
+
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
 copy ThirdParty\Data\log4net.dll ReferenceDll
