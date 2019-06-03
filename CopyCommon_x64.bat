@@ -55,3 +55,4 @@ copy ThirdParty\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
 
 copy ThirdParty\MachineLearning\ICP\ICP.dll ReferenceDll
 copy ThirdParty\MachineLearning\ICP\icp.lib DependenctDll
+copy ThirdParty\MachineLearning\MathNet\*.dll ReferenceDll
