@@ -1,6 +1,8 @@
 mkdir ReferenceDll
 mkdir DependenctDll
 
+copy ThirdParty\Comm\M2Mqtt.Net.dll ReferenceDll
+
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
 copy ThirdParty\Data\log4net.dll ReferenceDll
@@ -11,6 +13,18 @@ copy ThirdParty\Data\zxing.dll DependenctDll
 copy ThirdParty\Data\zxing.interop.dll DependenctDll
 copy ThirdParty\Data\zxing.dll ReferenceDll
 copy ThirdParty\Data\zxing.interop.dll ReferenceDll
+copy ThirdParty\Data\DataGatheringWrapper.dll ReferenceDll
+copy ThirdParty\Data\NationalInstruments.LabVIEW150.dll ReferenceDll
+copy ThirdParty\Data\NETOmniDriver-NET40.dll ReferenceDll
+copy ThirdParty\Data\processing5_2.dll ReferenceDll
+
+copy ThirdParty\Data\ippcore.dll DependenctDll
+copy ThirdParty\Data\ipps.dll DependenctDll
+copy ThirdParty\Data\ippse9.dll DependenctDll
+copy ThirdParty\Data\ippsl9.dll DependenctDll
+copy ThirdParty\Data\ippsm7.dll DependenctDll
+copy ThirdParty\Data\ippsn8.dll DependenctDll
+copy ThirdParty\Data\ippsy8.dll DependenctDll
 
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\Emgu.*.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\opencv_ffmpeg341_64.dll DependenctDll
