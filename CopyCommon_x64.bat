@@ -40,6 +40,7 @@ copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
 copy ThirdParty\DeviceEtc\HASP\apidsp_windows_x64.dll DependenctDll
 copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
+copy ThirdParty\DeviceEtcOptoTune\*.dll ReferenceDll
 
 7z x DependenctDll\*.7z -aoa -oDependenctDll\
 7z x DependenctDll\*.7z -aoa -oDependenctDll\
