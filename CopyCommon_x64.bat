@@ -13,9 +13,15 @@ copy ThirdParty\Data\zxing.dll DependenctDll
 copy ThirdParty\Data\zxing.interop.dll DependenctDll
 copy ThirdParty\Data\zxing.dll ReferenceDll
 copy ThirdParty\Data\zxing.interop.dll ReferenceDll
+
 copy ThirdParty\Data\DataGatheringWrapper.dll ReferenceDll
 copy ThirdParty\Data\NationalInstruments.LabVIEW150.dll ReferenceDll
+copy ThirdParty\Data\OmniDriver32.dll ReferenceDll
+copy ThirdParty\Data\OmniDriver32.lib ReferenceDll
+copy ThirdParty\Data\OmniDriver64.dll ReferenceDll
+copy ThirdParty\Data\OmniDriver64.lib ReferenceDll
 copy ThirdParty\Data\NETOmniDriver-NET40.dll ReferenceDll
+
 copy ThirdParty\Data\processing5_2.dll ReferenceDll
 
 copy ThirdParty\Data\ippcore.dll DependenctDll
