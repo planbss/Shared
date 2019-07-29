@@ -61,6 +61,7 @@ copy ThirdParty\Motion_DAQ\NationalInstruments.DAQmx.dll ReferenceDll
 copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics17.1\*.dll ReferenceDll
+copy ThirdParty\UIComponent\MahApps\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
 
 copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
