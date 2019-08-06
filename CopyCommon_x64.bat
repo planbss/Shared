@@ -13,9 +13,15 @@ copy ThirdParty\Data\zxing.dll DependenctDll
 copy ThirdParty\Data\zxing.interop.dll DependenctDll
 copy ThirdParty\Data\zxing.dll ReferenceDll
 copy ThirdParty\Data\zxing.interop.dll ReferenceDll
+
 copy ThirdParty\Data\DataGatheringWrapper.dll ReferenceDll
 copy ThirdParty\Data\NationalInstruments.LabVIEW150.dll ReferenceDll
+copy ThirdParty\Data\OmniDriver32.dll ReferenceDll
+copy ThirdParty\Data\OmniDriver32.lib ReferenceDll
+copy ThirdParty\Data\OmniDriver64.dll ReferenceDll
+copy ThirdParty\Data\OmniDriver64.lib ReferenceDll
 copy ThirdParty\Data\NETOmniDriver-NET40.dll ReferenceDll
+
 copy ThirdParty\Data\processing5_2.dll ReferenceDll
 
 copy ThirdParty\Data\ippcore.dll DependenctDll
@@ -57,6 +63,7 @@ copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics17.1\*.dll ReferenceDll
 copy ThirdParty\UIComponent\SFML\SFML.Net.x64.2.4.0\bin\*.dll DependenctDll
 copy ThirdParty\UIComponent\SFML\SFML.Net.x64.2.4.0\lib\*.dll ReferenceDll
+copy ThirdParty\UIComponent\MahApps\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
 
 copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
