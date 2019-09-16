@@ -1,7 +1,7 @@
 mkdir ReferenceDll
-mkdir DependenctDll
+mkdir DependencyDll
 
 
 copy ThirdParty\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
-copy ThirdParty\CNTK\*.dll DependenctDll
-copy ThirdParty\CNTK\*.7z DependenctDll
+copy ThirdParty\CNTK\*.dll DependencyDll
+copy ThirdParty\CNTK\*.7z DependencyDll
