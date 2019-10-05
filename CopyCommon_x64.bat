@@ -79,5 +79,5 @@ copy ThirdParty\MachineLearning\ICP\ICP.dll ReferenceDll
 copy ThirdParty\MachineLearning\ICP\icp.lib DependencyDll
 copy ThirdParty\MachineLearning\MathNet\*.dll ReferenceDll
 
-copy ThirdParty\Database\Npgsql.dll ReferenceDll
+copy ThirdParty\Database\*.dll ReferenceDll
 copy ThirdParty\Microsoft_dotnet\*.dll ReferenceDll
