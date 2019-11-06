@@ -1,15 +1,15 @@
 mkdir ReferenceDll
 mkdir DependenctDll
 
+copy ThirdParty\Data\InfluxDB.LineProtocol.dll ReferenceDll
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
 copy ThirdParty\Data\log4net.dll ReferenceDll
 copy ThirdParty\Data\XComProW_C40_01_64.dll ReferenceDll
 copy ThirdParty\Data\XComProW_M40_01_64.dll DependenctDll
 
-copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64-cuda\Emgu.CV.World.dll ReferenceDll
-copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64-cuda\x64\*.dll DependenctDll
-copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64-cuda\x64\*.7z DependenctDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64\Emgu.CV.World.dll ReferenceDll
+copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64\x64\*.dll DependenctDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 
@@ -39,7 +39,7 @@ copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
 copy ThirdParty\DeviceEtc\HASP\apidsp_windows_x64.dll DependenctDll
 copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
-copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
+copy ThirdParty\DeviceEtcOptoTune\*.dll ReferenceDll
 
 7z x DependenctDll\*.7z -aoa -oDependenctDll\
 7z x DependenctDll\*.7z -aoa -oDependenctDll\
