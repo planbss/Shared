@@ -73,6 +73,8 @@ copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependencyDll
 copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 
+copy ThirdParty\RsAutomationX8\x64\bin\*.dll ReferenceDll
+
 copy ThirdParty\MachineLearning\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
 
 copy ThirdParty\MachineLearning\ICP\ICP.dll ReferenceDll
