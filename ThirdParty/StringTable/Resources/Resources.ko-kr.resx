@@ -973,10 +973,10 @@
     <value>경계</value>
   </data>
   <data name="PATTERN_MARGIN_Y" xml:space="preserve">
-    <value>패턴 여백(세로)</value>
+    <value>패턴여백(세로)</value>
   </data>
   <data name="PATTERN_MARGIN_X" xml:space="preserve">
-    <value>패턴 여백(가로)</value>
+    <value>패턴여백(가로)</value>
   </data>
   <data name="FILM_HEIGHT_MM" xml:space="preserve">
     <value>필름 길이[mm]</value>

@@ -940,7 +940,7 @@
     <value>起动延迟距离</value>
   </data>
   <data name="SHOW_ALARM_WINDOW" xml:space="preserve">
-    <value>显示警报窗口</value>
+    <value>显示报警窗口</value>
   </data>
   <data name="USER_SETTING" xml:space="preserve">
     <value>用户设置</value>
@@ -973,31 +973,24 @@
     <value>边缘</value>
   </data>
   <data name="PATTERN_MARGIN_Y" xml:space="preserve">
-    <value>
-    </value>
+    <value>图案白边(纵)</value>
   </data>
   <data name="PATTERN_MARGIN_X" xml:space="preserve">
-    <value>
-    </value>
+    <value>图案白边(横)</value>
   </data>
   <data name="FILM_HEIGHT_MM" xml:space="preserve">
-    <value>
-    </value>
+    <value>薄膜长度[mm]</value>
   </data>
   <data name="FILM_WIDTH_MM" xml:space="preserve">
-    <value>
-    </value>
+    <value>薄膜宽度[mm]</value>
   </data>
   <data name="SHEET_SETTING" xml:space="preserve">
-    <value>
-    </value>
+    <value>Sheet设置</value>
   </data>
   <data name="EXIT_PROGRAM" xml:space="preserve">
-    <value>
-    </value>
+    <value>程序退出</value>
   </data>
   <data name="EXIT_PROGRAM_ASK" xml:space="preserve">
-    <value>
-    </value>
+    <value>是否确定退出程序？</value>
   </data>
 </root>
