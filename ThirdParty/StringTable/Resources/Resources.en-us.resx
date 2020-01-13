@@ -993,4 +993,22 @@
   <data name="EXIT_PROGRAM_ASK" xml:space="preserve">
     <value>Are you sure you want to exit the program?</value>
   </data>
+  <data name="ITEM" xml:space="preserve">
+    <value>Item</value>
+  </data>
+  <data name="OPERATOR_NAME" xml:space="preserve">
+    <value>Operator Name</value>
+  </data>
+  <data name="MODEL_NAME" xml:space="preserve">
+    <value>Model Name</value>
+  </data>
+  <data name="MACHINE_NAME" xml:space="preserve">
+    <value>Machine Name</value>
+  </data>
+  <data name="PET_FILM_MODEL" xml:space="preserve">
+    <value>PET Filme Model</value>
+  </data>
+  <data name="USER_INPUT" xml:space="preserve">
+    <value>User Input Option</value>
+  </data>
 </root>

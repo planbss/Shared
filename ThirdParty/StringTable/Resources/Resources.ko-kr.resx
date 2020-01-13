@@ -993,4 +993,22 @@
   <data name="EXIT_PROGRAM_ASK" xml:space="preserve">
     <value>프로그램을 종료하시겠습니까?</value>
   </data>
+  <data name="ITEM" xml:space="preserve">
+    <value>항목</value>
+  </data>
+  <data name="OPERATOR_NAME" xml:space="preserve">
+    <value>작업자 이름</value>
+  </data>
+  <data name="MODEL_NAME" xml:space="preserve">
+    <value>모델 이름</value>
+  </data>
+  <data name="MACHINE_NAME" xml:space="preserve">
+    <value>장비 이름</value>
+  </data>
+  <data name="PET_FILM_MODEL" xml:space="preserve">
+    <value>PET 필름 모델</value>
+  </data>
+  <data name="USER_INPUT" xml:space="preserve">
+    <value>사용자 입력 옵션</value>
+  </data>
 </root>
