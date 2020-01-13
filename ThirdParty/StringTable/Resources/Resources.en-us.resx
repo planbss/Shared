@@ -1,0 +1,1014 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ACCENT" xml:space="preserve">
+    <value>Accent</value>
+  </data>
+  <data name="ACCEPT" xml:space="preserve">
+    <value>Accept</value>
+  </data>
+  <data name="ADD" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="CANCEL" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="COMMON" xml:space="preserve">
+    <value>Common</value>
+  </data>
+  <data name="DESCRIPTION" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="GRAB" xml:space="preserve">
+    <value>Grab</value>
+  </data>
+  <data name="HOME" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="INSPECT" xml:space="preserve">
+    <value>Inspect</value>
+  </data>
+  <data name="LANGUAGE" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="LIST" xml:space="preserve">
+    <value>List</value>
+  </data>
+  <data name="MENU" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="MODEL" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="MODELWINDOW_ERROR" xml:space="preserve">
+    <value>The name should not be blank.</value>
+  </data>
+  <data name="MODIFIED" xml:space="preserve">
+    <value>Modified</value>
+  </data>
+  <data name="MODIFIED_DATE" xml:space="preserve">
+    <value>Modified Date</value>
+  </data>
+  <data name="NAME" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PARAM" xml:space="preserve">
+    <value>Param</value>
+  </data>
+  <data name="REGISTERED" xml:space="preserve">
+    <value>Registered</value>
+  </data>
+  <data name="REGISTERED_DATE" xml:space="preserve">
+    <value>Registered Date</value>
+  </data>
+  <data name="REGISTRATION_DATE" xml:space="preserve">
+    <value>Registration Date</value>
+  </data>
+  <data name="REMOVE" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="REPORT" xml:space="preserve">
+    <value>Report</value>
+  </data>
+  <data name="SELECT" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="SELECT_MODEL" xml:space="preserve">
+    <value>Select Model</value>
+  </data>
+  <data name="MODEL_SEARCH" xml:space="preserve">
+    <value>Model Search</value>
+  </data>
+  <data name="MODEL_INFO" xml:space="preserve">
+    <value>Model Info</value>
+  </data>
+  <data name="SETTING" xml:space="preserve">
+    <value>Setting</value>
+  </data>
+  <data name="THEME" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="DEVELOPER" xml:space="preserve">
+    <value>Developer</value>
+  </data>
+  <data name="AXIS_GRAB_SERVICE" xml:space="preserve">
+    <value>Axis Grab Service</value>
+  </data>
+  <data name="AXIS_GRAB_DEVICE" xml:space="preserve">
+    <value>Axis Grab Device</value>
+  </data>
+  <data name="TOTAL" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="EACH" xml:space="preserve">
+    <value>Each</value>
+  </data>
+  <data name="SEARCH" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="CLEAR" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="DATE" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="COATING" xml:space="preserve">
+    <value>Coating</value>
+  </data>
+  <data name="SLITTER" xml:space="preserve">
+    <value>Slitter</value>
+  </data>
+  <data name="DEFECT" xml:space="preserve">
+    <value>Defect</value>
+  </data>
+  <data name="CHART" xml:space="preserve">
+    <value>Chart</value>
+  </data>
+  <data name="IMAGE" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="SPEC" xml:space="preserve">
+    <value>Spec.</value>
+  </data>
+  <data name="EXCEL_EXPORT" xml:space="preserve">
+    <value>Excel Export</value>
+  </data>
+  <data name="CUSTOM_SETTINGS" xml:space="preserve">
+    <value>Custom Settings</value>
+  </data>
+  <data name="COUNT_BY_SIZE" xml:space="preserve">
+    <value>Count by Size</value>
+  </data>
+  <data name="AXISHANDLER" xml:space="preserve">
+    <value>AxisHandler</value>
+  </data>
+  <data name="RESOLUTION" xml:space="preserve">
+    <value>Resolution</value>
+  </data>
+  <data name="AXIS_INDEX" xml:space="preserve">
+    <value>Axis Index</value>
+  </data>
+  <data name="MOVE_VELOCITY" xml:space="preserve">
+    <value>Move Velocity</value>
+  </data>
+  <data name="GRAB_VELOCITY" xml:space="preserve">
+    <value>Grab Velocity</value>
+  </data>
+  <data name="MIN_Y" xml:space="preserve">
+    <value>Min Y</value>
+  </data>
+  <data name="MAX_Y" xml:space="preserve">
+    <value>Max Y</value>
+  </data>
+  <data name="CALIBRATION_SCAN_LENGTH" xml:space="preserve">
+    <value>Calibration Scan Length</value>
+  </data>
+  <data name="ALIGN_RATIO_X" xml:space="preserve">
+    <value>Align Ratio X</value>
+  </data>
+  <data name="ALIGN_RATIO_Y" xml:space="preserve">
+    <value>Align Ratio Y</value>
+  </data>
+  <data name="ALIGN_DIST_THESHOLD" xml:space="preserve">
+    <value>Align Dist Theshold</value>
+  </data>
+  <data name="IMAGE_RESIZE_RATIO" xml:space="preserve">
+    <value>Image Resize Ratio</value>
+  </data>
+  <data name="CAMERA" xml:space="preserve">
+    <value>Camera</value>
+  </data>
+  <data name="TRIGGER_PORT" xml:space="preserve">
+    <value>Trigger Port</value>
+  </data>
+  <data name="SCAN_DIRECTION" xml:space="preserve">
+    <value>Scan Direction</value>
+  </data>
+  <data name="START" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="END" xml:space="preserve">
+    <value>End</value>
+  </data>
+  <data name="SAVE" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="MACHINE" xml:space="preserve">
+    <value>Machine</value>
+  </data>
+  <data name="GLASS" xml:space="preserve">
+    <value>Glass</value>
+  </data>
+  <data name="DEFECT_LIST" xml:space="preserve">
+    <value>Defect List</value>
+  </data>
+  <data name="COUNT_BY_SECTION" xml:space="preserve">
+    <value>Count by Section</value>
+  </data>
+  <data name="PARAMETER" xml:space="preserve">
+    <value>Parameter</value>
+  </data>
+  <data name="CALIBRATION" xml:space="preserve">
+    <value>Calibration</value>
+  </data>
+  <data name="DOORLOCK" xml:space="preserve">
+    <value>Door Lock</value>
+  </data>
+  <data name="LIGHT" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="LOT_NO" xml:space="preserve">
+    <value>Lot No.</value>
+  </data>
+  <data name="UNLOCKDOOR" xml:space="preserve">
+    <value>Unlock Door</value>
+  </data>
+  <data name="SUMMARY" xml:space="preserve">
+    <value>Summary</value>
+  </data>
+  <data name="COATING_DEVICE" xml:space="preserve">
+    <value>Coating Device</value>
+  </data>
+  <data name="COATING_NO" xml:space="preserve">
+    <value>Coating No</value>
+  </data>
+  <data name="LOAD" xml:space="preserve">
+    <value>Load</value>
+  </data>
+  <data name="SECTION_LIST" xml:space="preserve">
+    <value>Section List</value>
+  </data>
+  <data name="SIZE_LIST" xml:space="preserve">
+    <value>Size List</value>
+  </data>
+  <data name="SLITTER_DEVICE" xml:space="preserve">
+    <value>Slitter Device</value>
+  </data>
+  <data name="SLITTER_LANE" xml:space="preserve">
+    <value>Slitter Lane</value>
+  </data>
+  <data name="SLITTER_NO" xml:space="preserve">
+    <value>Slitter No</value>
+  </data>
+  <data name="WARNING" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="ALGORITHM" xml:space="preserve">
+    <value>Algorithm</value>
+  </data>
+  <data name="DEVICE" xml:space="preserve">
+    <value>Device</value>
+  </data>
+  <data name="ETC" xml:space="preserve">
+    <value>Etc</value>
+  </data>
+  <data name="INIT" xml:space="preserve">
+    <value>Initializing</value>
+  </data>
+  <data name="STARTUP" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="UI" xml:space="preserve">
+    <value>UI</value>
+  </data>
+  <data name="CLOSE" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="TOWER_LAMP" xml:space="preserve">
+    <value>Tower Lamp</value>
+  </data>
+  <data name="COPY" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="MODIFY" xml:space="preserve">
+    <value>Modify</value>
+  </data>
+  <data name="TEACH" xml:space="preserve">
+    <value>Teach</value>
+  </data>
+  <data name="EXPORT" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="STOP" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="CUSTOM_SETTING" xml:space="preserve">
+    <value>Custom Setting</value>
+  </data>
+  <data name="LAYOUT" xml:space="preserve">
+    <value>Layout</value>
+  </data>
+  <data name="SWITCH_USER" xml:space="preserve">
+    <value>Switch User</value>
+  </data>
+  <data name="SWITCH_SCREEN" xml:space="preserve">
+    <value>Switch Screen</value>
+  </data>
+  <data name="LAYERPARAM" xml:space="preserve">
+    <value>LayerParam</value>
+  </data>
+  <data name="SENSOR" xml:space="preserve">
+    <value>Sensor</value>
+  </data>
+  <data name="WIDTH" xml:space="preserve">
+    <value>Width</value>
+  </data>
+  <data name="HOLD" xml:space="preserve">
+    <value>Hold</value>
+  </data>
+  <data name="EDIT" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="LOAD_DATABASE" xml:space="preserve">
+    <value>Load Database</value>
+  </data>
+  <data name="SAVE_THE_CONFIGURATION_FILE" xml:space="preserve">
+    <value>Save the configuration file</value>
+  </data>
+  <data name="ALWAYS_SHOW_LOT_NO" xml:space="preserve">
+    <value>Always Show Lot No.</value>
+  </data>
+  <data name="AREA_MM2" xml:space="preserve">
+    <value>Area[mm²]</value>
+  </data>
+  <data name="COMMUNICATION" xml:space="preserve">
+    <value>Communication</value>
+  </data>
+  <data name="COUNT" xml:space="preserve">
+    <value>Count</value>
+  </data>
+  <data name="DATABASE" xml:space="preserve">
+    <value>Database</value>
+  </data>
+  <data name="DEFECT_COUNT" xml:space="preserve">
+    <value>Defect Count</value>
+  </data>
+  <data name="DEFECT_MAP" xml:space="preserve">
+    <value>Defect Map</value>
+  </data>
+  <data name="DEFECT_SIZE" xml:space="preserve">
+    <value>Defect Size</value>
+  </data>
+  <data name="DEFECT_TYPE" xml:space="preserve">
+    <value>Defect Type</value>
+  </data>
+  <data name="ENABLE_AUTO_LOT_NO" xml:space="preserve">
+    <value>Enable Auto Lot No.</value>
+  </data>
+  <data name="END_DATE" xml:space="preserve">
+    <value>End Date</value>
+  </data>
+  <data name="FORMAT" xml:space="preserve">
+    <value>Format</value>
+  </data>
+  <data name="HEIGHT_MM" xml:space="preserve">
+    <value>Height[mm]</value>
+  </data>
+  <data name="HOURLY_NUMBER_OF_DEFECTS" xml:space="preserve">
+    <value>Hourly Number of Defects</value>
+  </data>
+  <data name="INFORMATION" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="IP_ADDRESS" xml:space="preserve">
+    <value>IP Address</value>
+  </data>
+  <data name="LENGTH_M" xml:space="preserve">
+    <value>Length[m]</value>
+  </data>
+  <data name="MODULE" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="PORT" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="POSITION_MM" xml:space="preserve">
+    <value>Position[mm]</value>
+  </data>
+  <data name="POSX_MM" xml:space="preserve">
+    <value>PosX[mm]</value>
+  </data>
+  <data name="POSY_M" xml:space="preserve">
+    <value>PosY[m]</value>
+  </data>
+  <data name="RESULT" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="SAVE_RESULT" xml:space="preserve">
+    <value>Save Result</value>
+  </data>
+  <data name="SCAN" xml:space="preserve">
+    <value>Scan</value>
+  </data>
+  <data name="SEARCH_OPTION" xml:space="preserve">
+    <value>Search Option</value>
+  </data>
+  <data name="SHOW_ALL_RESULT" xml:space="preserve">
+    <value>Show All Result</value>
+  </data>
+  <data name="SHOW_DETAIL_VIEW" xml:space="preserve">
+    <value>Show Detail View</value>
+  </data>
+  <data name="START_DATE" xml:space="preserve">
+    <value>Start Date</value>
+  </data>
+  <data name="THUMBNAIL" xml:space="preserve">
+    <value>Thumbnail</value>
+  </data>
+  <data name="TIME" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="TYPE" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="WIDTH_MM" xml:space="preserve">
+    <value>Width[mm]</value>
+  </data>
+  <data name="PATH" xml:space="preserve">
+    <value>Path</value>
+  </data>
+  <data name="APPLY" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="CATEGORY_LIST" xml:space="preserve">
+    <value>Category List</value>
+  </data>
+  <data name="COLOR" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="DEFECT_CATEGORY" xml:space="preserve">
+    <value>Defect Category</value>
+  </data>
+  <data name="DEFECT_SKIP" xml:space="preserve">
+    <value>Defect Skip</value>
+  </data>
+  <data name="DELETE" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="DISTANCE" xml:space="preserve">
+    <value>Distance</value>
+  </data>
+  <data name="EDGE_MM" xml:space="preserve">
+    <value>Edge[mm]</value>
+  </data>
+  <data name="FIGURE" xml:space="preserve">
+    <value>Figure</value>
+  </data>
+  <data name="HEIGHT_UM" xml:space="preserve">
+    <value>Height[um]</value>
+  </data>
+  <data name="LOWER" xml:space="preserve">
+    <value>Lower</value>
+  </data>
+  <data name="TO_DOWN" xml:space="preserve">
+    <value>To Down</value>
+  </data>
+  <data name="TO_UP" xml:space="preserve">
+    <value>To Up</value>
+  </data>
+  <data name="UPPER" xml:space="preserve">
+    <value>Upper</value>
+  </data>
+  <data name="WARNING_LEVEL" xml:space="preserve">
+    <value>Warning Level</value>
+  </data>
+  <data name="WIDTH_UM" xml:space="preserve">
+    <value>Width[um]</value>
+  </data>
+  <data name="CONNECT" xml:space="preserve">
+    <value>Connect</value>
+  </data>
+  <data name="REFRESH" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="DISCONNECT" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="REFERENCE" xml:space="preserve">
+    <value>Reference</value>
+  </data>
+  <data name="BACKGROUND" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="BASE_ANGLE" xml:space="preserve">
+    <value>Base Angle</value>
+  </data>
+  <data name="ROTATE_ANGLE" xml:space="preserve">
+    <value>Rotate Angle</value>
+  </data>
+  <data name="BRIGHTNESS" xml:space="preserve">
+    <value>Brightness</value>
+  </data>
+  <data name="CAMERA_NO" xml:space="preserve">
+    <value>Camera No.</value>
+  </data>
+  <data name="SORT" xml:space="preserve">
+    <value>Sort</value>
+  </data>
+  <data name="DEFECTLIST" xml:space="preserve">
+    <value>Defect List</value>
+  </data>
+  <data name="LOADING" xml:space="preserve">
+    <value>Loading</value>
+  </data>
+  <data name="AVG_GV" xml:space="preserve">
+    <value>Avg Gv</value>
+  </data>
+  <data name="MAX_GV" xml:space="preserve">
+    <value>Max Gv</value>
+  </data>
+  <data name="MIN_GV" xml:space="preserve">
+    <value>Min Gv</value>
+  </data>
+  <data name="CATEGORY_TYPE_EDIT" xml:space="preserve">
+    <value>Edit Category Type</value>
+  </data>
+  <data name="RAW" xml:space="preserve">
+    <value>Raw</value>
+  </data>
+  <data name="PROCESSING" xml:space="preserve">
+    <value>Processing</value>
+  </data>
+  <data name="EXCUTING" xml:space="preserve">
+    <value>Excuting...</value>
+  </data>
+  <data name="COMPLETE" xml:space="preserve">
+    <value>Complete</value>
+  </data>
+  <data name="FINISH" xml:space="preserve">
+    <value>Finish</value>
+  </data>
+  <data name="CALIBRATION_LIGHT" xml:space="preserve">
+    <value>Calibration Light</value>
+  </data>
+  <data name="LIGHT_CALIBRATION_PROCESS" xml:space="preserve">
+    <value>Light Calibration Process</value>
+  </data>
+  <data name="STATUS" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="EXCUTE_COMMAND" xml:space="preserve">
+    <value>Excute Command</value>
+  </data>
+  <data name="AVG_GV(0~255)" xml:space="preserve">
+    <value>Avg Gv(0~255)</value>
+  </data>
+  <data name="MAX_GV(0~255)" xml:space="preserve">
+    <value>Max Gv(0~255)</value>
+  </data>
+  <data name="MIN_GV(0~255)" xml:space="preserve">
+    <value>Min Gv(0~255)</value>
+  </data>
+  <data name="NEXT_LOT_NO" xml:space="preserve">
+    <value>Next Lot No</value>
+  </data>
+  <data name="SPEED" xml:space="preserve">
+    <value>Speed</value>
+  </data>
+  <data name="MAXGV" xml:space="preserve">
+    <value>MaxGv</value>
+  </data>
+  <data name="LENGTH" xml:space="preserve">
+    <value>Length</value>
+  </data>
+  <data name="CURRENT_SPEED" xml:space="preserve">
+    <value>Current Speed</value>
+  </data>
+  <data name="PASS" xml:space="preserve">
+    <value>Pass</value>
+  </data>
+  <data name="NG" xml:space="preserve">
+    <value>NG</value>
+  </data>
+  <data name="SKIP" xml:space="preserve">
+    <value>SKIP</value>
+  </data>
+  <data name="VISION" xml:space="preserve">
+    <value>Vision</value>
+  </data>
+  <data name="WIDTH_LOWER" xml:space="preserve">
+    <value>Width Lower</value>
+  </data>
+  <data name="HEIGHT_LOWER" xml:space="preserve">
+    <value>Height Lower</value>
+  </data>
+  <data name="DEFECT_INFO" xml:space="preserve">
+    <value>Defect Info</value>
+  </data>
+  <data name="ENCODER" xml:space="preserve">
+    <value>Encoder</value>
+  </data>
+  <data name="INSPECTION" xml:space="preserve">
+    <value>Inspection</value>
+  </data>
+  <data name="UNABLE_CONNECT_ENCODER" xml:space="preserve">
+    <value>Unable to connect to the encoder.</value>
+  </data>
+  <data name="COLUMNS" xml:space="preserve">
+    <value>Columns</value>
+  </data>
+  <data name="ROWS" xml:space="preserve">
+    <value>Rows</value>
+  </data>
+  <data name="CONTROL" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="EDIT_CATEGORY_TYPE" xml:space="preserve">
+    <value>Edit Category Type</value>
+  </data>
+  <data name="ADDRESS" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="ENCODER_CONNECTION_ERROR" xml:space="preserve">
+    <value>Encoder connection error</value>
+  </data>
+  <data name="THICKNESS" xml:space="preserve">
+    <value>Thickness</value>
+  </data>
+  <data name="THICKNESS_TARGET" xml:space="preserve">
+    <value>Thickness Target</value>
+  </data>
+  <data name="PET_PARAM_NAME" xml:space="preserve">
+    <value>PET Param Name</value>
+  </data>
+  <data name="SCAN_NAME" xml:space="preserve">
+    <value>Scan Name</value>
+  </data>
+  <data name="SHEET_PARAM_NAME" xml:space="preserve">
+    <value>Sheet Param Name</value>
+  </data>
+  <data name="MODEL_PARAMETER" xml:space="preserve">
+    <value>Model Parameter</value>
+  </data>
+  <data name="MAX_GV_UPPER" xml:space="preserve">
+    <value>MaxGvUpper</value>
+  </data>
+  <data name="EDGE_LOWER" xml:space="preserve">
+    <value>EdgeMin</value>
+  </data>
+  <data name="EDGE_UPPER" xml:space="preserve">
+    <value>EdgeMax</value>
+  </data>
+  <data name="AREA_UPPER" xml:space="preserve">
+    <value>Area Upper</value>
+  </data>
+  <data name="AREA_LOWER" xml:space="preserve">
+    <value>Area Lower</value>
+  </data>
+  <data name="MINGVMIN" xml:space="preserve">
+    <value>MinGvMin</value>
+  </data>
+  <data name="MINGVMAX" xml:space="preserve">
+    <value>MinGvMax</value>
+  </data>
+  <data name="MAXGVMIN" xml:space="preserve">
+    <value>MaxGvMin</value>
+  </data>
+  <data name="MAXGVMAX" xml:space="preserve">
+    <value>MaxGvMax</value>
+  </data>
+  <data name="AVGGVMAX" xml:space="preserve">
+    <value>AvgGvMax</value>
+  </data>
+  <data name="AVGGVMIN" xml:space="preserve">
+    <value>AvgGvMin</value>
+  </data>
+  <data name="WIDTH_UPPER" xml:space="preserve">
+    <value>Width Upper</value>
+  </data>
+  <data name="HEIGHTMAX" xml:space="preserve">
+    <value>HeightMax</value>
+  </data>
+  <data name="HEIGHTMIN" xml:space="preserve">
+    <value>HeightMin</value>
+  </data>
+  <data name="COLUMN" xml:space="preserve">
+    <value>Column</value>
+  </data>
+  <data name="ROW" xml:space="preserve">
+    <value>Row</value>
+  </data>
+  <data name="SPAN" xml:space="preserve">
+    <value>Span</value>
+  </data>
+  <data name="TRIANGLE" xml:space="preserve">
+    <value>Triangle</value>
+  </data>
+  <data name="NONE" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="SQUARE" xml:space="preserve">
+    <value>Square</value>
+  </data>
+  <data name="CIRCLE" xml:space="preserve">
+    <value>Circle</value>
+  </data>
+  <data name="CROSS" xml:space="preserve">
+    <value>Cross</value>
+  </data>
+  <data name="DIAMOND" xml:space="preserve">
+    <value>Diamond</value>
+  </data>
+  <data name="DUST" xml:space="preserve">
+    <value>Dust</value>
+  </data>
+  <data name="HOLE" xml:space="preserve">
+    <value>Hole</value>
+  </data>
+  <data name="SIZE_UM" xml:space="preserve">
+    <value>Size(um)</value>
+  </data>
+  <data name="OTHERS" xml:space="preserve">
+    <value>Others</value>
+  </data>
+  <data name="DEFECT_INFORMATION" xml:space="preserve">
+    <value>Defect Information</value>
+  </data>
+  <data name="ASCENDING" xml:space="preserve">
+    <value>Ascending</value>
+  </data>
+  <data name="DESCENDING" xml:space="preserve">
+    <value>Descending</value>
+  </data>
+  <data name="ENGLISH" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="KOREAN" xml:space="preserve">
+    <value>Korean</value>
+  </data>
+  <data name="CHINESE_SIMPLED" xml:space="preserve">
+    <value>Simplified Chinese</value>
+  </data>
+  <data name="OPEN" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="NO_RESULTS_FOUND" xml:space="preserve">
+    <value>No results found.</value>
+  </data>
+  <data name="DEFECT_NO" xml:space="preserve">
+    <value>Defect No.</value>
+  </data>
+  <data name="SCAN_NO" xml:space="preserve">
+    <value>Scan No.</value>
+  </data>
+  <data name="START_TIME" xml:space="preserve">
+    <value>Start Time</value>
+  </data>
+  <data name="END_TIME" xml:space="preserve">
+    <value>End Time</value>
+  </data>
+  <data name="SPECIFICITY_1" xml:space="preserve">
+    <value>Specificity 1</value>
+  </data>
+  <data name="SPECIFICITY_2" xml:space="preserve">
+    <value>Specificity 2</value>
+  </data>
+  <data name="PLC_TYPE" xml:space="preserve">
+    <value>PLC Type</value>
+  </data>
+  <data name="PREV" xml:space="preserve">
+    <value>Previous</value>
+  </data>
+  <data name="NEXT" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="ERROR" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="FAILED_TO_OPEN_MODEL" xml:space="preserve">
+    <value>Failed to open model</value>
+  </data>
+  <data name="NOTIFICATION" xml:space="preserve">
+    <value>Notification</value>
+  </data>
+  <data name="HOURLY_NUMBER_OF_RESULTS" xml:space="preserve">
+    <value>Hourly Number of Results</value>
+  </data>
+  <data name="HOUR" xml:space="preserve">
+    <value>Hour</value>
+  </data>
+  <data name="UNIT" xml:space="preserve">
+    <value>Unit</value>
+  </data>
+  <data name="VALUE" xml:space="preserve">
+    <value>Value</value>
+  </data>
+  <data name="YIELD" xml:space="preserve">
+    <value>Yield</value>
+  </data>
+  <data name="MAX_GV_LOWER" xml:space="preserve">
+    <value>MaxGvLower</value>
+  </data>
+  <data name="MIN_GV_LOWER" xml:space="preserve">
+    <value>MinGvLower</value>
+  </data>
+  <data name="MIN_GV_UPPER" xml:space="preserve">
+    <value>MinGvUpper</value>
+  </data>
+  <data name="AVG_GV_LOWER" xml:space="preserve">
+    <value>AvgGvLower</value>
+  </data>
+  <data name="AVG_GV_UPPER" xml:space="preserve">
+    <value>AvgGvUpper</value>
+  </data>
+  <data name="HEIGHT_UPPER" xml:space="preserve">
+    <value>Height Upper</value>
+  </data>
+  <data name="DEFECT_HAS_OCCURRED" xml:space="preserve">
+    <value>A defect has occurred!!!</value>
+  </data>
+  <data name="START_DELAY_DISTANCE" xml:space="preserve">
+    <value>Start Delay Distance</value>
+  </data>
+  <data name="SHOW_ALARM_WINDOW" xml:space="preserve">
+    <value>Show Alarm Window</value>
+  </data>
+  <data name="USER_SETTING" xml:space="preserve">
+    <value>User Setting</value>
+  </data>
+  <data name="USER" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="NO1_SENSOR" xml:space="preserve">
+    <value>1. 센서</value>
+  </data>
+  <data name="DATA_GATHERING_COUNT_PER_SEC" xml:space="preserve">
+    <value>초당 데이터 수집 개수</value>
+  </data>
+  <data name="DATA_COUNT_FOR_ZERO_SETTING" xml:space="preserve">
+    <value>영점 설정 데이터 개수</value>
+  </data>
+  <data name="NO2_CEDMS_GRAPH" xml:space="preserve">
+    <value>2. CEDMS 그래프</value>
+  </data>
+  <data name="USE_LINE_STOP" xml:space="preserve">
+    <value>라인 스탑 사용</value>
+  </data>
+  <data name="LINE_STOP_LOWER_MM" xml:space="preserve">
+    <value>라인 스탑 하한</value>
+  </data>
+  <data name="LINE_STOP_UPPER_MM" xml:space="preserve">
+    <value>라인 스탑 상한</value>
+  </data>
+  <data name="EDGE" xml:space="preserve">
+    <value>Edge</value>
+  </data>
+  <data name="PATTERN_MARGIN_Y" xml:space="preserve">
+    <value>Pattern Margin Y</value>
+  </data>
+  <data name="PATTERN_MARGIN_X" xml:space="preserve">
+    <value>Pattern Margin X</value>
+  </data>
+  <data name="FILM_HEIGHT_MM" xml:space="preserve">
+    <value>Film Height[mm]</value>
+  </data>
+  <data name="FILM_WIDTH_MM" xml:space="preserve">
+    <value>Film Width[mm]</value>
+  </data>
+  <data name="SHEET_SETTING" xml:space="preserve">
+    <value>Sheet Setting</value>
+  </data>
+  <data name="EXIT_PROGRAM" xml:space="preserve">
+    <value>Exit Program</value>
+  </data>
+  <data name="EXIT_PROGRAM_ASK" xml:space="preserve">
+    <value>Are you sure you want to exit the program?</value>
+  </data>
+  <data name="ITEM" xml:space="preserve">
+    <value>Item</value>
+  </data>
+  <data name="OPERATOR_NAME" xml:space="preserve">
+    <value>Operator Name</value>
+  </data>
+  <data name="MODEL_NAME" xml:space="preserve">
+    <value>Model Name</value>
+  </data>
+  <data name="MACHINE_NAME" xml:space="preserve">
+    <value>Machine Name</value>
+  </data>
+  <data name="PET_FILM_MODEL" xml:space="preserve">
+    <value>PET Filme Model</value>
+  </data>
+  <data name="USER_INPUT" xml:space="preserve">
+    <value>User Input Option</value>
+  </data>
+</root>
