@@ -16,24 +16,6 @@ copy ThirdParty\Data\zxing.interop.dll DependencyDll
 copy ThirdParty\Data\zxing.dll ReferenceDll
 copy ThirdParty\Data\zxing.interop.dll ReferenceDll
 
-copy ThirdParty\Data\DataGatheringWrapper.dll ReferenceDll
-copy ThirdParty\Data\NationalInstruments.LabVIEW150.dll ReferenceDll
-copy ThirdParty\Data\OmniDriver32.dll ReferenceDll
-copy ThirdParty\Data\OmniDriver32.lib ReferenceDll
-copy ThirdParty\Data\OmniDriver64.dll ReferenceDll
-copy ThirdParty\Data\OmniDriver64.lib ReferenceDll
-copy ThirdParty\Data\NETOmniDriver-NET40.dll ReferenceDll
-
-copy ThirdParty\Data\processing5_2.dll ReferenceDll
-
-copy ThirdParty\Data\ippcore.dll DependencyDll
-copy ThirdParty\Data\ipps.dll DependencyDll
-copy ThirdParty\Data\ippse9.dll DependencyDll
-copy ThirdParty\Data\ippsl9.dll DependencyDll
-copy ThirdParty\Data\ippsm7.dll DependencyDll
-copy ThirdParty\Data\ippsn8.dll DependencyDll
-copy ThirdParty\Data\ippsy8.dll DependencyDll
-
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\Emgu.*.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\opencv_ffmpeg341_64.dll DependencyDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\concrt140.dll DependencyDll
@@ -74,6 +56,8 @@ copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependencyDll
 copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\AstroLite\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\OceanOptics\*.dll ReferenceDll
 
 copy ThirdParty\RsAutomationX8\x64\bin\*.dll ReferenceDll
 
