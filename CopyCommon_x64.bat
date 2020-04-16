@@ -32,6 +32,7 @@ copy ThirdParty\Motion_DAQ\AXL.dll DependencyDll
 copy ThirdParty\Motion_DAQ\ComiDll.dll DependencyDll
 copy ThirdParty\Motion_DAQ\EzBasicAxl.dll DependencyDll
 copy ThirdParty\Motion_DAQ\EziMOTIONPlusRx64.dll DependencyDll
+copy ThirdParty\Motion_DAQ\EziMOTIONPlusE.dll DependencyDll
 copy ThirdParty\Motion_DAQ\MEDAQLib.dll DependencyDll
 copy ThirdParty\Motion_DAQ\PCI-Dask64.dll DependencyDll
 copy ThirdParty\Motion_DAQ\PowerPmac64.dll DependencyDll
