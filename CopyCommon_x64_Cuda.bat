@@ -7,6 +7,12 @@ copy ThirdParty\Data\log4net.dll ReferenceDll
 copy ThirdParty\Data\XComProW_C40_01_64.dll ReferenceDll
 copy ThirdParty\Data\XComProW_M40_01_64.dll DependenctDll
 
+copy ThirdParty\Database\EntityFramework\*.dll ReferenceDll
+copy ThirdParty\Database\EntityFramework.Firebird\*.dll ReferenceDll
+copy ThirdParty\Database\FirebirdSql.Data.FirebirdClient\*.dll ReferenceDll
+copy ThirdParty\Database\Prism\*.dll ReferenceDll
+copy ThirdParty\Database\System.ValueTuple\*.dll ReferenceDll
+
 copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64-cuda\Emgu.CV.World.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64-cuda\x64\*.dll DependenctDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64-cuda\x64\*.7z DependenctDll
