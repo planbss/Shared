@@ -41,6 +41,7 @@ copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
 
+copy ThirdParty\DeviceEtc\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
 copy ThirdParty\DeviceEtc\HASP\apidsp_windows_x64.dll DependenctDll
 copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
