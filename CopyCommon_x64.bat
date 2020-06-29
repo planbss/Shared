@@ -39,6 +39,7 @@ copy ThirdParty\Motion_DAQ\EziMOTIONPlusE.dll DependencyDll
 copy ThirdParty\Motion_DAQ\MEDAQLib.dll DependencyDll
 copy ThirdParty\Motion_DAQ\PCI-Dask64.dll DependencyDll
 copy ThirdParty\Motion_DAQ\PowerPmac64.dll DependencyDll
+copy ThirdParty\Motion_DAQ\INA_AZ_DLL.dll DependencyDll
 
 copy ThirdParty\Motion_DAQ\SusiCommon.dll ReferenceDll
 copy ThirdParty\Motion_DAQ\MEDAQLib.NET.dll ReferenceDll
