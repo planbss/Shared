@@ -24,6 +24,9 @@ copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\msvcp140.dll DependencyDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\vcruntime140.dll DependencyDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
+copy ThirdParty\ImagingLibrary\Halcon\Dep\*.dll DependencyDll
+copy ThirdParty\ImagingLibrary\Halcon\Dep\*.lib DependencyDll
+copy ThirdParty\ImagingLibrary\Halcon\Ref\*.dll ReferenceDll
 
 copy ThirdParty\cuCUDAs\cuCUDAs.dll ReferenceDll
 
@@ -34,9 +37,11 @@ copy ThirdParty\Motion_DAQ\AXL.dll DependencyDll
 copy ThirdParty\Motion_DAQ\ComiDll.dll DependencyDll
 copy ThirdParty\Motion_DAQ\EzBasicAxl.dll DependencyDll
 copy ThirdParty\Motion_DAQ\EziMOTIONPlusRx64.dll DependencyDll
+copy ThirdParty\Motion_DAQ\EziMOTIONPlusE.dll DependencyDll
 copy ThirdParty\Motion_DAQ\MEDAQLib.dll DependencyDll
 copy ThirdParty\Motion_DAQ\PCI-Dask64.dll DependencyDll
 copy ThirdParty\Motion_DAQ\PowerPmac64.dll DependencyDll
+copy ThirdParty\Motion_DAQ\INA_AZ_DLL.dll DependencyDll
 
 copy ThirdParty\Motion_DAQ\SusiCommon.dll ReferenceDll
 copy ThirdParty\Motion_DAQ\MEDAQLib.NET.dll ReferenceDll
@@ -60,6 +65,7 @@ copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\AstroLite\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OceanOptics\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\Keyence.CL3000\*.dll ReferenceDll
 
 copy ThirdParty\RsAutomationX8\x64\bin\*.dll ReferenceDll
 
