@@ -25,6 +25,8 @@ copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\vcruntime140.dll DependencyDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 
+copy ThirdParty\cuCUDAs\cuCUDAs.dll ReferenceDll
+
 copy ThirdParty\Grabber\*.dll ReferenceDll
 copy ThirdParty\Grabber\Pylon5\*.dll ReferenceDll
 
