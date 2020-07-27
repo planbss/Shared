@@ -4,6 +4,7 @@ mkdir DependencyDll
 copy ThirdParty\Comm\M2Mqtt.Net.dll ReferenceDll
 copy ThirdParty\Comm\Polly.dll ReferenceDll
 copy ThirdParty\Comm\RabbitMQ.Client.dll ReferenceDll
+copy ThirdParty\Comm\Microsoft.Diagnostics.Tracing.EventSource.dll ReferenceDll
 
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
