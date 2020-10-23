@@ -53,6 +53,7 @@ copy ThirdParty\Motion_DAQ\NationalInstruments.DAQmx.dll ReferenceDll
 copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics17.1\*.dll ReferenceDll
+copy ThirdParty\UIComponent\Infragistics18.1\*.dll ReferenceDll
 copy ThirdParty\UIComponent\SFML.Net\SFML.Net.x64-2.5.0\bin\*.dll DependencyDll
 copy ThirdParty\UIComponent\SFML.Net\SFML.Net.x64-2.5.0\lib\*.dll ReferenceDll
 copy ThirdParty\UIComponent\MahApps\*.dll ReferenceDll
