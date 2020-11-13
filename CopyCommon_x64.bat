@@ -29,6 +29,9 @@ copy ThirdParty\ImagingLibrary\Halcon\Dep\*.dll DependencyDll
 copy ThirdParty\ImagingLibrary\Halcon\Dep\*.lib DependencyDll
 copy ThirdParty\ImagingLibrary\Halcon\Ref\*.dll ReferenceDll
 
+copy ThirdParty\ImagingLibrary\Tesseract\*.dll ReferenceDll
+xcopy ThirdParty\ImagingLibrary\Tesseract\x64 DependencyDll\x64\
+
 copy ThirdParty\cuCUDAs\cuCUDAs.dll ReferenceDll
 
 copy ThirdParty\Grabber\*.dll ReferenceDll
