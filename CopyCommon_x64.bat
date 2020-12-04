@@ -66,8 +66,10 @@ copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependencyDll
 copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\AstroLite\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\OceanOptics\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\Keyence.CL3000\*.dll ReferenceDll
+
+copy ThirdParty\DeviceEtc\OceanOptics\DependencyDll\*.dll DependencyDll
+copy ThirdParty\DeviceEtc\OceanOptics\ReferenceDll\*.dll ReferenceDll
 
 copy ThirdParty\RsAutomationX8\x64\bin\*.dll ReferenceDll
 
