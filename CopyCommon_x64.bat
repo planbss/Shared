@@ -49,6 +49,8 @@ copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\GlossMeasure\*.dll ReferenceDll
 
+copy ThirdParty\DeviceEtc\Excel\*.dll ReferenceDll
+
 copy ThirdParty\Nuget\*.dll ReferenceDll
 
 7z x DependenctDll\*.7z -aoa -oDependenctDll\
