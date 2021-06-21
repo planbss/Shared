@@ -14,8 +14,19 @@ copy ThirdParty\Database\FirebirdSql.Data.FirebirdClient\*.dll ReferenceDll
 copy ThirdParty\Database\Prism\*.dll ReferenceDll
 copy ThirdParty\Database\System.ValueTuple\*.dll ReferenceDll
 
+copy ThirdParty\DeviceEtc\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
+copy ThirdParty\DeviceEtc\HASP\apidsp_windows_x64.dll DependenctDll
+copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
+copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
+copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\GlossMeasure\*.dll ReferenceDll
+
+copy ThirdParty\Excel\*.dll ReferenceDll
+
 copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64\Emgu.CV.World.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\EmguCV3.4.3.3016_x64\x64\*.dll DependenctDll
+
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 
@@ -37,21 +48,13 @@ copy ThirdParty\Motion_DAQ\NationalInstruments.Common.dll ReferenceDll
 copy ThirdParty\Motion_DAQ\NationalInstruments.Common.Native.dll ReferenceDll
 copy ThirdParty\Motion_DAQ\NationalInstruments.DAQmx.dll ReferenceDll
 
+copy ThirdParty\Nuget\*.dll ReferenceDll
+
+copy ThirdParty\Rockwell\*.dll ReferenceDll
+
 copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
-
-copy ThirdParty\DeviceEtc\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
-copy ThirdParty\DeviceEtc\HASP\apidsp_windows_x64.dll DependenctDll
-copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
-copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
-copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\GlossMeasure\*.dll ReferenceDll
-
-copy ThirdParty\DeviceEtc\Excel\*.dll ReferenceDll
-
-copy ThirdParty\Nuget\*.dll ReferenceDll
 
 7z x DependenctDll\*.7z -aoa -oDependenctDll\
 7z x DependenctDll\*.7z -aoa -oDependenctDll\
