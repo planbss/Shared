@@ -77,9 +77,6 @@ copy ThirdParty\DeviceEtc\OceanOptics\ReferenceDll\*.dll ReferenceDll
 copy ThirdParty\RsAutomationX8\x64\bin\*.dll ReferenceDll
 
 copy ThirdParty\MachineLearning\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
-copy ThirdParty\MachineLearning\OpenVino\Release\bin\*.dll DependencyDll
-copy ThirdParty\MachineLearning\OpenVino\Release\bin\*.xml DependencyDll
-copy ThirdParty\MachineLearning\OpenVino\Release\lib\*.dll ReferenceDll
 
 copy ThirdParty\MachineLearning\ICP\ICP.dll ReferenceDll
 copy ThirdParty\MachineLearning\ICP\icp.lib DependencyDll
