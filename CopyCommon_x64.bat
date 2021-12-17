@@ -17,12 +17,6 @@ copy ThirdParty\Data\zxing.interop.dll DependencyDll
 copy ThirdParty\Data\zxing.dll ReferenceDll
 copy ThirdParty\Data\zxing.interop.dll ReferenceDll
 
-copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\Emgu.*.dll ReferenceDll
-copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\opencv_ffmpeg341_64.dll DependencyDll
-copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\concrt140.dll DependencyDll
-copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\cvextern.dll DependencyDll
-copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\msvcp140.dll DependencyDll
-copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\vcruntime140.dll DependencyDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Halcon\Dep\*.dll DependencyDll
