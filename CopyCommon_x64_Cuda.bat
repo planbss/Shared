@@ -1,6 +1,8 @@
 mkdir ReferenceDll
 mkdir DependenctDll
 
+copy ThirdParty\Communication\RabbitMQ.Client.dll ReferenceDll
+
 copy ThirdParty\Data\InfluxDB.LineProtocol.dll ReferenceDll
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
