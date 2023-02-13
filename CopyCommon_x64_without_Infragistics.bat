@@ -26,6 +26,7 @@ copy ThirdParty\ImagingLibrary\EmguCV3.4.1_x64\vcruntime140.dll DependencyDll
 copy ThirdParty\ImagingLibrary\Halcon\Dep\*.dll DependencyDll
 copy ThirdParty\ImagingLibrary\Halcon\Dep\*.lib DependencyDll
 copy ThirdParty\ImagingLibrary\Halcon\Ref\*.dll ReferenceDll
+copy ThirdParty\ImagingLibrary\Tesseract\Tesseract.dll ReferenceDll
 
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
