@@ -13,14 +13,13 @@ copy ThirdParty\Data\XComProW_M40_01_64.dll DependenctDll
 copy ThirdParty\Database\EntityFramework\*.dll ReferenceDll
 copy ThirdParty\Database\EntityFramework.Firebird\*.dll ReferenceDll
 copy ThirdParty\Database\FirebirdSql.Data.FirebirdClient\*.dll ReferenceDll
+copy ThirdParty\Database\FirebirdSql.Data.FirebirdClient\*.dll ReferenceDll
 copy ThirdParty\Database\Prism\*.dll ReferenceDll
 copy ThirdParty\Database\System.ValueTuple\*.dll ReferenceDll
 
 copy ThirdParty\DeviceEtc\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\HASP\hasp_net_windows.dll ReferenceDll
-copy ThirdParty\DeviceEtc\HASP\apidsp_windows_x64.dll DependenctDll
-copy ThirdParty\DeviceEtc\MxComponent\AxInterop.ActUtlTypeLib.dll ReferenceDll
-copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependenctDll
+copy ThirdParty\DeviceEtc\HASP\*.dll DependenctDll
+copy ThirdParty\DeviceEtc\MxComponent\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\GlossMeasure\*.dll ReferenceDll
 
