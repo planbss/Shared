@@ -57,7 +57,3 @@ copy ThirdParty\Rockwell\*.dll ReferenceDll
 copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
-
-7z x DependenctDll\*.7z -aoa -oDependenctDll\
-7z x DependenctDll\*.7z -aoa -oDependenctDll\
-
