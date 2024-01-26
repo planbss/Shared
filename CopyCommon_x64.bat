@@ -18,7 +18,7 @@ copy ThirdParty\Database\Prism\*.dll ReferenceDll
 copy ThirdParty\Database\System.ValueTuple\*.dll ReferenceDll
 
 copy ThirdParty\DeviceEtc\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\HASP\*.dll DependenctDll
+copy ThirdParty\DeviceEtc\HASP\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\GlossMeasure\*.dll ReferenceDll
@@ -57,7 +57,3 @@ copy ThirdParty\Rockwell\*.dll ReferenceDll
 copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
-
-7z x DependenctDll\*.7z -aoa -oDependenctDll\
-7z x DependenctDll\*.7z -aoa -oDependenctDll\
-
