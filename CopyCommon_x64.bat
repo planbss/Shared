@@ -69,7 +69,7 @@ copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependencyDll
 copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\AstroLite\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\Keyence.CL3000\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\Keyence\*.dll DependencyDll
 
 copy ThirdParty\ThicknessMeasure\DependencyDll\*.dll DependencyDll
 copy ThirdParty\ThicknessMeasure\ReferenceDll\*.dll ReferenceDll
@@ -86,4 +86,4 @@ copy ThirdParty\Database\*.dll ReferenceDll
 copy ThirdParty\Database\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
 copy ThirdParty\Microsoft_dotnet\*.dll ReferenceDll
 
-copy ThirdParty\SyncBoard\IntekPlus\*.dll ReferenceDll
+copy ThirdParty\SyncBoard\IntekPlus\*.dll DependencyDll
