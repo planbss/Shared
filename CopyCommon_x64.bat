@@ -88,4 +88,4 @@ copy ThirdParty\Microsoft_dotnet\*.dll ReferenceDll
 
 copy ThirdParty\SyncBoard\IntekPlus\*.dll DependencyDll
 
-copy ThirdParty\Melsec\MxComponent5\*.dll DependencyDll
+copy ThirdParty\Melsec\MxComponent5\*.dll ReferenceDll
