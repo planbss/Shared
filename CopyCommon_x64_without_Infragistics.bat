@@ -84,3 +84,5 @@ copy ThirdParty\Database\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
 copy ThirdParty\Microsoft_dotnet\*.dll ReferenceDll
 
 copy ThirdParty\SyncBoard\IntekPlus\*.dll DependencyDll
+
+copy ThirdParty\Melsec\MxComponent5\*.dll DependencyDll
