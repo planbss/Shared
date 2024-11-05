@@ -5,6 +5,7 @@ copy ThirdParty\Comm\M2Mqtt.Net.dll ReferenceDll
 copy ThirdParty\Comm\Polly.dll ReferenceDll
 copy ThirdParty\Comm\RabbitMQ.Client.dll ReferenceDll
 copy ThirdParty\Comm\Microsoft.Diagnostics.Tracing.EventSource.dll ReferenceDll
+copy ThirdParty\Comm\HslCommunication.dll ReferenceDll
 
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
@@ -81,6 +82,7 @@ copy ThirdParty\MachineLearning\CNTK\Cntk.Core.Managed-*.dll ReferenceDll
 copy ThirdParty\MachineLearning\ICP\ICP.dll ReferenceDll
 copy ThirdParty\MachineLearning\ICP\icp.lib DependencyDll
 copy ThirdParty\MachineLearning\MathNet\*.dll ReferenceDll
+copy ThirdParty\MachineLearning\OpenVinoIE_CLR.dll ReferenceDll
 
 copy ThirdParty\Database\*.dll ReferenceDll
 copy ThirdParty\Database\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
