@@ -6,6 +6,7 @@ copy ThirdParty\Comm\Polly.dll ReferenceDll
 copy ThirdParty\Comm\RabbitMQ.Client.dll ReferenceDll
 copy ThirdParty\Comm\Microsoft.Diagnostics.Tracing.EventSource.dll ReferenceDll
 copy ThirdParty\Comm\HslCommunication.dll ReferenceDll
+copy ThirdParty\Comm\AllenBreadley\*.dll DependencyDll
 
 copy ThirdParty\Data\CUBRID.Data.dll ReferenceDll
 copy ThirdParty\Data\FirebirdSql.Data.FirebirdClient.dll ReferenceDll
