@@ -21,7 +21,8 @@ copy ThirdParty\DeviceEtc\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\HASP\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\GlossMeasure\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\GlossMeasure\DependencyDll\*.dll DependenctDll
+copy ThirdParty\DeviceEtc\GlossMeasure\ReferenceDll\*.dll ReferenceDll
 
 copy ThirdParty\Excel\*.dll ReferenceDll
 
