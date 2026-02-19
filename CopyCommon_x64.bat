@@ -54,8 +54,9 @@ copy ThirdParty\Motion_DAQ\NationalInstruments.DAQmx.dll ReferenceDll
 
 copy ThirdParty\Nuget\*.dll ReferenceDll
 
-copy ThirdParty\Rockwell\*.dll ReferenceDll
-
 copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
+
+copy ThirdParty\UniEye\CUDA\*.dll ReferenceDll
+copy ThirdParty\UniEye\Rockwell\*.dll ReferenceDll
