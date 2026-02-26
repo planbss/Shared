@@ -21,7 +21,8 @@ copy ThirdParty\DeviceEtc\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\HASP\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\MxComponent\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\GlossMeasure\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\GlossMeasure\DependencyDll\*.dll DependenctDll
+copy ThirdParty\DeviceEtc\GlossMeasure\ReferenceDll\*.dll ReferenceDll
 
 copy ThirdParty\Excel\*.dll ReferenceDll
 
@@ -53,8 +54,9 @@ copy ThirdParty\Motion_DAQ\NationalInstruments.DAQmx.dll ReferenceDll
 
 copy ThirdParty\Nuget\*.dll ReferenceDll
 
-copy ThirdParty\Rockwell\*.dll ReferenceDll
-
 copy ThirdParty\UIComponent\OpenTK\*.dll ReferenceDll
 copy ThirdParty\UIComponent\Infragistics14.2\*.dll ReferenceDll
 copy ThirdParty\UIComponent\*.dll ReferenceDll
+
+copy ThirdParty\UniEye\CUDA\*.dll ReferenceDll
+copy ThirdParty\UniEye\Rockwell\*.dll ReferenceDll
