@@ -69,7 +69,7 @@ copy ThirdParty\DeviceEtc\MxComponent\Interop.ActUtlTypeLib.dll DependencyDll
 copy ThirdParty\DeviceEtc\OpenHardwareMonitorLib.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\AstroLite\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\Keyence\*.dll DependencyDll
+copy ThirdParty\DeviceEtc\Keyence\*.dll ReferenceDll
 
 copy ThirdParty\ThicknessMeasure\DependencyDll\*.dll DependencyDll
 copy ThirdParty\ThicknessMeasure\ReferenceDll\*.dll ReferenceDll
