@@ -19,7 +19,7 @@ copy ThirdParty\Database\System.ValueTuple\*.dll ReferenceDll
 
 copy ThirdParty\DeviceEtc\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\HASP\*.dll ReferenceDll
-copy ThirdParty\DeviceEtc\MxComponent\*.dll ReferenceDll
+copy ThirdParty\DeviceEtc\MxComponent5\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\OptoTune\*.dll ReferenceDll
 copy ThirdParty\DeviceEtc\GlossMeasure\DependencyDll\*.dll DependenctDll
 copy ThirdParty\DeviceEtc\GlossMeasure\ReferenceDll\*.dll ReferenceDll
