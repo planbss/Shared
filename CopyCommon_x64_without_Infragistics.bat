@@ -32,6 +32,8 @@ copy ThirdParty\ImagingLibrary\Tesseract\Tesseract.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\UniScanG.Vision.dll DependencyDll
+if not exist "DependencyDll\UniEye.Imaging\inspection-1.0.0" mkdir "DependencyDll\UniEye.Imaging\inspection-1.0.0"
+copy /Y "ThirdParty\ImagingLibrary\UniEye.Imaging\inspection-1.0.0\UniEye.Imaging.Inspection.Native.dll" "DependencyDll\UniEye.Imaging\inspection-1.0.0\UniEye.Imaging.Inspection.Native.dll" || exit /b 1
 
 copy ThirdParty\cuCUDAs\cuCUDAs.dll DependencyDll
 
