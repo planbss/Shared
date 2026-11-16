@@ -31,6 +31,7 @@ copy ThirdParty\ImagingLibrary\Tesseract\Tesseract.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Matrox.MatroxImagingLibrary.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\Open_eVision_NetApi_1_2.dll ReferenceDll
 copy ThirdParty\ImagingLibrary\UniScanG.Vision.dll DependencyDll
+copy ThirdParty\ImagingLibrary\UniEye.Imaging\UniEye.Imaging.Native.dll DependencyDll
 copy ThirdParty\ImagingLibrary\UniEye.Imaging\UniEye.Imaging.Inspection.Native.dll DependencyDll
 
 copy ThirdParty\cuCUDAs\cuCUDAs.dll DependencyDll
